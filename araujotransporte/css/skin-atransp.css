@@ -43,4 +43,4 @@ blockquote {border-left:5px solid #00808D;}
 .active-header:hover {background:#00808D;}
 #filter ul li .selected {background: #00808D !Important;}
 .drop-cap, .captionicons {background:#00808D;}
-.pageheader-default .semitransparentbg, .bgarea-semitransparent {background: rgba(42,196,234,0.80) !important;}
+.pageheader-default .semitransparentbg {background: rgba(42,196,234,0.80) !important;}
